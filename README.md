@@ -96,10 +96,33 @@ delay (2000);
 ```
 Como segundo paso, definimos los 4 pines y hacemos las conexiones
 ## Conexiones
-![]()
+Se realiza las conezciones de los LED´s y el ultrasonico de la siguiente forma:
+
+
+![](https://github.com/AlejandroBarreraU/Practica-6/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2019_01_2024%2006_42_16%20p.%20m..png?raw=true)
 
 ## Resultados
-![]()
+LED CON UN LITRO EN TANQUE
+
+
+![](https://github.com/AlejandroBarreraU/Practica-6/blob/main/DiegoJm10_Node-red-instalacion%20-%20Google%20Chrome%2019_01_2024%2007_00_29%20p.%20m..png?raw=true)
+
+LED CON 113 LITROS EN TANQUE
+
+
+![](https://github.com/AlejandroBarreraU/Practica-6/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2019_01_2024%2007_07_43%20p.%20m..png?raw=true)
+
+LED CON 284 LITROS EN TANQUE
+
+
+![](https://github.com/AlejandroBarreraU/Practica-6/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2019_01_2024%2006_42_16%20p.%20m..png?raw=true)
+
+LED CON 368 LITROS EN TANQUE
+
+
+![](https://github.com/AlejandroBarreraU/Practica-6/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2019_01_2024%2007_00_55%20p.%20m..png?raw=true)
+
+
 
 ## Créditos
 
