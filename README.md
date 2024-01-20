@@ -7,7 +7,7 @@ En este repositorio se verá a detalle como programar LED indicadores de nivel p
 + Resistencias
 + Ultrasonico
 ## Intrucciones
-Como primer paso escribimos el código:
+1. Como primer paso escribimos el código:
 ```
 // defines pins numbers
 const int trigPin = 4;
@@ -94,7 +94,7 @@ delay (2000);
 }
 
 ```
-Como segundo paso, definimos los 4 pines y hacemos las conexiones
+2. Como segundo paso, definimos los 4 pines y hacemos las conexiones
 ## Conexiones
 Se realiza las conezciones de los LED´s y el ultrasonico de la siguiente forma:
 
